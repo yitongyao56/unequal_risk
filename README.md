@@ -7,8 +7,8 @@ In this repository, these five files were used to produce the plots shown in pap
 
 Post-processed datasets can be found at 10.5281/zenodo.14807234
 
-$Figure 1$: droughted area comparison 
-$Figure 2$: drought responses shown by C-band radar signal data 
-$Figure 3$: drought responses binned by drought intensities
-$Figure 4$: drought sensitivity shifts 
-$Figure 5$: attribution of intensified drought responses 
+**Figure 1**: droughted area comparison  
+**Figure 2**: drought responses shown by C-band radar signal data  
+**Figure 3**: drought responses binned by drought intensities  
+**Figure 4**: drought sensitivity shifts  
+**Figure 5**: attribution of intensified drought responses  
